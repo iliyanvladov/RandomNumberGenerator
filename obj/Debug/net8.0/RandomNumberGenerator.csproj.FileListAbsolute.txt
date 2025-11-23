@@ -1,0 +1,14 @@
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\bin\Debug\net8.0\RandomNumberGenerator.exe
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\bin\Debug\net8.0\RandomNumberGenerator.deps.json
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\bin\Debug\net8.0\RandomNumberGenerator.runtimeconfig.json
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\bin\Debug\net8.0\RandomNumberGenerator.dll
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\bin\Debug\net8.0\RandomNumberGenerator.pdb
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.AssemblyInfo.cs
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.dll
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\refint\RandomNumberGenerator.dll
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.pdb
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\RandomNumberGenerator.genruntimeconfig.cache
+C:\Users\Vladov\RiderProjects\Projects\RandomNumberGenerator\obj\Debug\net8.0\ref\RandomNumberGenerator.dll
