@@ -9,3 +9,4 @@ What will be improved:
 - Print all the executions when using GenerateMultipleNumbers().
 - Add checks for valid inputs.
 - A new option for generating multiple random numbers by providing a count and a range.
+- Add a note "including" and make it so.
